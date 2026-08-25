@@ -222,8 +222,10 @@ Response
 
 ## 👨‍💻 Author
 
-**Madhesh Waran**
+**Madhesh G**
 
+linkdin:
+https://www.linkedin.com/in/madheshg/
 GitHub:  
 https://github.com/madheshw265-lang
 
