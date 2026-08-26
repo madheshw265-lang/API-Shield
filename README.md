@@ -184,6 +184,18 @@ This helps protect APIs from excessive or abusive requests.
 
 ---
 
+---
+
+## 🎥 Project Demo
+
+<p align="center">
+  <a href="assets/demo/Api-Shield.mp4">
+    ▶️ Watch API Shield Demo
+  </a>
+</p>
+
+---
+
 ## 🔄 How It Works
 
 ```text
